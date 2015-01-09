@@ -1,2 +1,2 @@
 # regform
-simple registration form
+simplest registration form
